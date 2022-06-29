@@ -15,7 +15,7 @@ Como usar:
 	Nota: Executar o programa "Assignment01_marine_silva_miguel.sh" na mesma pasta que os ficheiros: 
 	.: config-ipyrad
 	.:"primeiroHomeWork_GuilhermeSilva_Marine_Miguel.py"
-  .:"pca.R"
+  	.:"pca.R"
 
 
 .: 3ª May the force be with you ;)
