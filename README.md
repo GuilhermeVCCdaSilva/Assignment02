@@ -10,7 +10,7 @@ Como usar:
 
 
 	O Programa "Assignment02.sh" vai demorar em torno de 24 horas/72 horas dependendo da capacidade do
-  computador até terminar de executar por completo
+  	computador até terminar de executar por completo
 	
 	Nota: Executar o programa "Assignment01_marine_silva_miguel.sh" na mesma pasta que os ficheiros: 
 	.: config-ipyrad
