@@ -26,4 +26,4 @@ Como usar:
 	Marine Fournier 202000224
 	Guilherme Silva 202000178
 	Miguel La Iglesia 202101030
-  Nuno Sardinha 201900192
+  	Nuno Sardinha 201900192
